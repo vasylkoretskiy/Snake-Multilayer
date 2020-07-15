@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.textField{
+width: 100%;
+
+}
+p{
+    margin: 30px;
+}
+.buttons{
+    display: flex;
+    width: 100%;
+}
+.buttons .button{
+    margin: 20px;
+
+    width: 30%;
+}
+.leader_board{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}

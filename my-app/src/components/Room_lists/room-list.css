@@ -1,0 +1,8 @@
+.room{
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    width:70%;
+height: 3vh;
+}

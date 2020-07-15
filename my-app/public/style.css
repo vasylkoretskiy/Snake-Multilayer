@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+  height: 100vh;
+}
+#root{
+  
+    /* background-color: 		rgb(224,224,224);
+    height: 100vh;
+    width: 100%; */
+    background-image: url("https://ak0.picdn.net/shutterstock/videos/343000/thumb/1.jpg");
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+    height: 90vh;
+}
